@@ -1,0 +1,6 @@
+{
+  "name": "集中デスク",
+  "description": "気合いややる気に頼らず、環境・時間・タスク・コンディションの4つの仕組みで勉強の集中力を引き出すインタラクティブ学習支援アプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
